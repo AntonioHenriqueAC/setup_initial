@@ -44,7 +44,7 @@ alias pm2ra='pm2 reload all'
 
 alias nvm4='nvm use 4'
 
-cowsay -f $(ls /usr/share/cowsay/ | shuf -n1) "Opa, bão?"
+#cowsay -f $(ls /usr/share/cowsay/ | shuf -n1) "Opa, bão?"
 
 
 # If you come from bash you might have to change your $PATH.
