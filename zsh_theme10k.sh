@@ -27,4 +27,4 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~
 sudo yum install wget -y
 
 rm -rf $HOME/.zshrc
-wget https://github.com/AntonioHenriqueAC/settings/blob/master/dev/.zshrc ~/
+wget https://raw.githubusercontent.com/AntonioHenriqueAC/setup_initial/master/.zshrc ~/
